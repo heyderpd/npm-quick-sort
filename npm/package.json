@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "q-sort",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple and fast quick-sort",
   "main": "index.js",
   "scripts": {},
