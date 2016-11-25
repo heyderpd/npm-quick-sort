@@ -1,13 +1,13 @@
 {
   "license": "MIT",
   "name": "q-sort",
-  "version": "1.0.1",
-  "description": "simple and fast heap-sort",
+  "version": "1.0.2",
+  "description": "simple and fast quick-sort",
   "main": "index.js",
   "scripts": {},
   "keywords": [
-    "heap sort",
-    "heap",
+    "quick sort",
+    "quick",
     "sort",
     "fast",
     "simple"
@@ -15,10 +15,10 @@
   "author": "NPM acany <heyderpd@gmail.com> (http://heyderpd.github.io)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heyderpd/npm-heap-sort.git"
+    "url": "git+https://github.com/heyderpd/npm-quick-sort.git"
   },
   "bugs": {
-    "url": "https://github.com/heyderpd/npm-heap-sort/issues"
+    "url": "https://github.com/heyderpd/npm-quick-sort/issues"
   },
   "devDependencies": {},
   "dependencies": {}
